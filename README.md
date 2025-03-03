@@ -1,16 +1,19 @@
 # `Hello World, I'm Hari prasad 👋🏽`
 
-<!--
-**hariprasadP06/hariprasadP06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience 
 
-Here are some ideas to get you started:
+-Web
+  - `Next.js (JS/TS)` . `⭐⭐⭐⭐⭐`
+  - `React.js (JS/TS)` . `⭐` `⭐⭐⭐⭐`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Back End
+  - 'Node.js(JS/TS)`.`⭐` `⭐⭐⭐⭐`
+
+- AI
+   - 'Mistral`.`⭐` `⭐⭐⭐⭐`
+   - `Weaiate (Vector Database)`.`⭐`⭐⭐⭐⭐`
+ 
+
+### Projects
+
+- `Second Brain`
